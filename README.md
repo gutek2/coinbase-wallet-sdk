@@ -51,7 +51,8 @@
    yarn add @coinbase/wallet-sdk
 
    # npm
-   npm install @coinbase/wallet-sdk
+   npm install
+ @coinbase/wallet-sdk
    ```
 
 3. Check installed version:
